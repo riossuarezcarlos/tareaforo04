@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "c:\\Users\\Carlos\\entornovirtual\\Scripts\\python.exe",
+	"python.linting.pylintArgs": [
+    "--disable=C0111", // missing docstring
+	"--load-plugins=pylint_django,pylint_celery",],
+}
